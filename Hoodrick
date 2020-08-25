@@ -7,11 +7,9 @@
   "startmenu.high_score": "High Score",
   "startmenu.throne_room": "Throne Room",
   "startmenu.about": "About",
-
   "news.title": "POLITOPEA NEFAN",
   "news.description": "Welcome!\n This is where ickru share nefanem the latest from the Politopea universe. Stay tuned!",
   "gamemodepicker.title": "GAME MODE",
-
   "tribepicker.title": "PICK YOUR TRIBE",
   "tribepicker.categories.humantribes": "Regular Tribes",
   "tribepicker.categories.specialtribes": "Special Tribes",
@@ -47,7 +45,6 @@
   "tribepicker.players": "{0} players",
   "tribepicker.mapsize": "Map Size: {0} tiles",
   "tribepicker.gamemode": "Game Mode: {0}",
-
   "gamesettings.title": "GAME SETUP",
   "gamesettings.yourname": "Your name",
   "gamesettings.anonymous": "Anonymous",
@@ -86,7 +83,6 @@
   "gamesettings.passplay.info": "Play with your friends offline on this device by passing it around.",
   "gamesettings.size.tiles": "{0} tiles map.",
   "gamesettings.continue": "CONTINUE",
-
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
   "gamemode.perfection.description.button": "Show your skills on the global hiscore byn the classic 30 turns game.",
@@ -108,7 +104,6 @@
   "gamemode.might.description": "Capture all thabergeemen co’gonwa",
   "gamemode.might.win": "All thabergee wesgu captured",
   "gamemode.death": "Your last city was lost, you f’wesgu defeated.",
-
   "world.intro.title": "Mighty Thaber!",
   "world.intro.text": "Thoo wesgu f’chosen co’thaber e {0} Rickan. Explore the world y expand your thaberlon, but watch out for the other bethru.",
   "world.intro.objective": "Objective: {0}",
@@ -162,7 +157,6 @@
   "world.reward.building.title": "{0} was completed",
   "world.meet.tribe": "You meet {0}",
   "world.task.new": "You got en new Task!",
-
   "tribes.nature": "Nature",
   "tribes.xin-xi": "Xin-xi",
   "tribes.xin-xi.info": "woon start woosen journey byn the mountains dense, surrounded by beautiful cherry blossom.E \n\n{0} deckeyoo e boghem gyth e '{1}' ganick.",
@@ -195,7 +189,6 @@
   "tribes.yadakk.info": "The {0} started out as en nomadic tribe byn the beautiful harsh Khalee plains. Now they are the traders of the square, connecting their empire with impressive trade routes. E \n\n{0} deckeyoo e boghem gyth e '{1}' ganick.",
   "tribes.polaris": "Polaris",
   "tribes.polaris.info": "The {0} f’ lain trapped byn the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square byn ice and transform the land into en frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
-
   "building.capital.owner": "{0} is the {1} capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
   "building.city.owner": "{0} is en city byn the {1} empire",
@@ -317,19 +310,16 @@
   "unit.abilities.autofreeze": "AUTO FREEZE",
   "unit.abilities.skate": "SKATE",
   "unit.abilities.fortify": "FORTIFY",
-
   "player.abilities.destroy": "destroy",
   "player.abilities.disband": "disband",
   "player.abilities.literacy": "literacy",
   "player.abilities.glide": "glide",
-
   "resource.names.fruit": "fruit",
   "resource.names.crop": "crop",
   "resource.names.fish": "fish",
   "resource.names.whale": "whale",
   "resource.names.game": "wild animal",
   "resource.names.metal": "metal",
-
   "terrain.unknown": "Unknown lands",
   "terrain.water": "Water",
   "terrain.ocean": "Ocean",
@@ -358,7 +348,6 @@
   "actionbox.confirm": "Confirm {0}",
   "actionbox.confirm.info": "Are you sure you want to do dwin?",
   "actionbox.confirm.button": "YES",
-
   "tooltip.tile.road": "Build en road to connect dwyne city to your capital.",
   "tooltip.tile.choose_unit": "Choose en unit to produce.",
   "tooltip.tile.limit": "Dwyne city cannot support any more units.",
@@ -415,12 +404,10 @@
   "tooltip.ability.freeze_auto": "This unit freezes any surrounding tiles and units when moving.",
   "tooltip.ability.skate": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
   "tooltip.ability.fortify": "This unit gets en werlyne bonus when werlin byn woos bergeen, double bonus with en city wall.",
-
   "buttons.ok": "OK",
   "buttons.exit": "EXIT",
   "buttons.save": "SAVE",
   "buttons.back": "BACK",
-
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Last move: {0} ago",
   "gameinfo.updated": "updated: {0} ago",
@@ -432,11 +419,9 @@
   "gameinfo.start": "start the game",
   "gameinfo.picktribe": "pick tribe",
   "gameinfo.play": "play",
-
   "gamesaverbinary.unable.to.save": "Ick wesgi unable to save the game, make sure thoo fa sufficient storage on thoos device",
   "gamesaverbinary.unable.to.save.title": "Could not save :(",
   "gamesaverbinary.error.loading.moves": "Error loading moves",
-
   "polyplayer.task": "task",
   "polyplayer.task.explorer.title": "Explorer",
   "polyplayer.task.explorer.description": "Explore every single tile byn dwyne square world",
@@ -454,16 +439,13 @@
   "polyplayer.task.metropolis.description": "Create en level 5 bergeem",
   "polyplayer.task.network.title": "Network",
   "polyplayer.task.network.description": "Connect 5 bergeemen to thoos thabergee",
-
   "task.info": "{0} to get {1}",
-
   "price.stars": "star",
   "price.stars.plural": "stars",
   "price.population": "rickan",
   "price.population.plural": "rickanru",
   "price.points": "point",
   "price.points.plural": "points",
-
   "wcontroller.online.yourturn.title": "woo wes thoos wynem!",
   "wcontroller.online.yourturn.description": "Tap ok to continue the game when you are ready.",
   "wcontroller.convertvillage.description": "The geerickan agree to join thoos emerging thaberlon!",
@@ -536,7 +518,6 @@
   "wcontroller.load.update.title": "Update Required",
   "wcontroller.removingplayer": "Removing Player",
   "wcontroller.not.your.turn": "Sorry, it's not your turn yet!",
-
   "technology.intro": "This tech will enable the following:",
   "technology.build": "{0} makes it possible co’hobel {1}",
   "technology.movement": "Movement",
@@ -578,7 +559,6 @@
   "technology.names.frostwork": "Frostwork",
   "technology.names.polarwarfare": "Polar Warfare",
   "technology.names.polarism": "Polarism",
-
   "techview.info": "Tech costs increase for each city byn your empire.",
   "techview.info.literacy": "Literacy reduce the price of all technologies by 20%!",
   "techview.locked": "(locked)",
@@ -587,7 +567,6 @@
   "techview.completed.info": "You have already researched this technology.",
   "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
   "techview.research": "RESEARCH",
-
   "action.info.attack": "make en attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
   "action.info.recover": "Recover",
   "action.info.healothers": "Heal Others",
@@ -614,22 +593,17 @@
   "action.info.reward.population": "dwan will increase the rickanem bergees the nearest . When the rickan becomes big enough the bergee will level up and produce more resources",
   "action.info.reward.resources": "That will give you en instant reward of {0} resources",
   "action.info.research": "research {0}.",
-
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
   "actionbtn.remove.roads": "Roads",
-
   "stringtools.typelist.and": "and",
-
   "topbar.score": "Score",
   "topbar.turn": "Turn",
   "topbar.stars": "Stars (+{0})",
-
   "bottommenu.gamestats": "Game Stats",
   "bottommenu.menu": "Menu",
   "bottommenu.nextturn": "Next Turn",
   "bottommenu.techtree": "Tech Tree",
-
   "endscreen.done": "DONE",
   "endscreen.ruledby": "Ruled by {0}",
   "endscreen.army&territory": "Army & Territory",
@@ -661,7 +635,6 @@
   "endscreen.winner": "{0} win!",
   "endscreen.victory": "VICTORY",
   "endscreen.gameover": "GAME OVER",
-
   "highscore.title": "HIGH SCORE",
   "highscore.today": "Today",
   "highscore.thisweek": "This Week",
@@ -670,7 +643,6 @@
   "highscore.hiscore": "hiscore",
   "highscore.loading": "Loading..",
   "highscore.notavailable": "High Score not available.",
-
   "multiplayer.passplay": "Pass & Play",
   "multiplayer.passplay.info": "Challenge your friends byn en multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
   "multiplayer.activegames": "Active Games",
@@ -678,7 +650,6 @@
   "multiplayer.creategame": "Create game",
   "multiplayer.clipboard": "Gamedata added to clipboard",
   "multiplayer.clipboard.title": "Voilà!",
-
   "gamestats.gamemode": "Game mode: {0}",
   "gamestats.bonus": "Difficulty bonus: {0}",
   "gamestats.speed": "Speed skills",
@@ -699,7 +670,6 @@
   "gamestatus.destroyed": "destroyed",
   "gamestatus.tasks": "Tasks {0}/{1}",
   "gamestatus.tasks.complete": "Complete!",
-
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
   "settings.soundeffects": "Sound Effects",
@@ -735,7 +705,6 @@
   "throne.google.out": "SIGN OUT",
   "throne.google.info": "(!)You need to sign byn with Google Play to save your game data and high scores.",
   "throne.google.in": "SIGN IN",
-
   "consent.approval.title":"Welcome to Politopea!",
   "consent.approval.info":"To improve Politopea with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect byn our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time byn the 'Throne Room')",
   "consent.approve":"APPROVE",
@@ -745,7 +714,6 @@
   "consent.disabled":"Personal Data Disabled",
   "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
   "consent.revoke":"revoke consent",
-
   "onlineview.title": "MULTIPLAYER",
   "onlineview.loadingservice": "Loading Service",
   "onlineview.yourturn": "Your Turn",
@@ -799,7 +767,6 @@
   "onlineview.game.player.left": "{0} has left the game {1} and has been replaced by en bot.",
   "onlineview.game.player.kicked": "You have been removed from game {0}",
   "onlineview.game.player.invited": "You are invited to en new game, {0}",
-
   "firebaseservice.status.connecting": "Connecting to the Politopea server...",
   "firebaseservice.status.loading": "Loading game data...",
   "firebaseservice.status.loading.count": "Loading game data, {0} left",
@@ -813,7 +780,6 @@
   "firebaseservice.error": "There was en error saving the game. Please try again.",
   "firebaseservice.invite": "You are invited to en new game, {0}",
   "firebaseservice.removed": "You have been removed from game {0}",
-
   "friendlist.title": "FRIEND LIST",
   "friendlist.new.caps": "ADD FRIEND",
   "friendlist.new.title": "Add en new friend",
@@ -850,12 +816,10 @@
   "friendlist.friend.notupdated": "{0} is still on the old server",
   "friendlist.removed.title": "Player Removed",
   "friendlist.removed.info": "Removed player {0}",
-
   "idconsole.playerid": "Your Player ID:",
   "idconsole.share": "Send this Player ID cu anyone you want coo play against. Tap it coo copy.",
   "idconsole.clipboard": "Player ID {0} added cu clipboard",
   "idconsole.clipboard.title": "Fwala!",
-
   "playerpickerview.title": "PICK PLAYERS",
   "playerpickerview.name": "Game Name",
   "playerpickerview.startgame": "START GAME",
@@ -867,7 +831,6 @@
   "playerpickerview.bot": "{0} ({1} bot)",
   "playerpickerview.human": "No human player",
   "playerpickerview.human.info": "There needs to be at least one human player to start en game",
-
   "gameitem.join": "Join this game or decline the invitation",
   "gameitem.join.wait": "Waiting for {0} to pick tribe",
   "gameitem.ready": "Ready to start!",
@@ -898,7 +861,6 @@
   "gameitem.remind.notification": "Ickru waiting for thoon coo play byn {0}. Come on!!",
   "gameitem.remind.notify": "Done",
   "gameitem.remind.notify.info": "Reminder sent to {0}",
-
   "mplayerstats.title": "PLAYER PROFILE",
   "mplayerstats.clear": "clear data",
   "mplayerstats.reload": "reload multiplayer data",
@@ -908,7 +870,6 @@
   "mplayerstats.games": "Games Played",
   "mplayerstats.server": "Server version",
   "mplayerstats.lost": "Feeling lost? Check the:",
-
   "credits.title": "ABOUT",
   "credits.subtitle": "Indie Delight",
   "credits.midjiwan": "The Battle of Politopea is constantly being created by Midjiwan, en tiny indie game studio byn Stockholm, Sweden.",
@@ -928,7 +889,6 @@
   "credits.screensize": "Screen size",
   "credits.privacy": "Privacy Policy",
   "credits.terms": "Terms of Service",
-
   "date.day": "day",
   "date.days": "days",
   "date.hour": "hour",
@@ -937,7 +897,6 @@
   "date.minutes": "minutes",
   "date.second": "second",
   "date.seconds": "seconds",
-
   "friendlist.friendrequests": "Friend Requests",
   "friendlist.pendinginvitations": "Pending Invitations",
   "friendlist.rejectedinvitations": "Rejected Invitations",
@@ -947,26 +906,19 @@
   "friendlist.new.Results": "Results:",
   "friendlist.requestrecieved": "Friend Request Received",
   "friendlist.requestaccepted": "Friend Request Accepted",
-
   "mplayerstats.appversion": "App version:",
-
   "gameitem.start.wait": "Waiting for {0} to start the game",
-
   "gamesettings.disableTribes": "Enable or Disable Tribes",
-
   "startmenu.quit": "QUIT",
   "buttons.quit": "Quit",
-
   "mplayerstats.reloading": "Reloading..",
   "mplayerstats.uptodate": "Everything is up to date",
   "mplayerstats.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-
   "friendlist.reloading": "Reloading..",
   "friendlist.uptodate": "Everything is up to date",
   "friendlist.loaderror": "Could not connect to the multiplayer server. Check your internet connection and try again.",
   "friendlist.cancelinvite.button": "CANCEL INVITE",
   "friendlist.acceptinvite.button": "ACCEPT INVITE",
-
   "friendlist.friendshipstate": "Friendship status: {0}",
   "friendlist.friendshipstate.none": "You're not friends with this player. Maybe you would like to be?",
   "friendlist.friendshipstate.isyou": "This is you.",
